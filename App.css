@@ -1,0 +1,22 @@
+.truman{
+    display: none;
+}
+.modal{
+    display:flex;
+    height: 400px;
+    width: 300px;
+    border: solid 2px black;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center
+}
+.registr{
+    display:none;
+    height: 400px;
+    width: 300px;
+    border: solid 2px black;
+    
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center
+}
